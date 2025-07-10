@@ -1,4 +1,15 @@
-## Hi there 👋
+## José Luiz Bonilla Arruda
+
+##Formação:
+-Técnico em Eletrônica
+-Estudante de Engenharia elétrica
+
+#Linguagens
+-Python, C.
+
+
+
+
 
 <!--
 **JoseBonillaArruda/JoseBonillaArruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
