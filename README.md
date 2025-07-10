@@ -1,10 +1,13 @@
 ## José Luiz Bonilla Arruda
 
-Formação:
+## Formação:
+
 -Técnico em Eletrônica
+
 -Estudante de Engenharia elétrica
 
-Linguagens
+## Linguagens
+
 -Python, C.
 
 
